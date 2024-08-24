@@ -16,7 +16,7 @@
 
 <h3 align="start">A passionate developer from India</h3>
 
-- 👨‍💻 All of my works are available at [darshanrathod.netlify.app](darshanrathod.netlify.app)
+- 👨‍💻 All of my works are available at [darshanrathod.netlify.app](https://darshanrathod.netlify.app)
 
 - 📄 Know about my experiences [Check Resume](https://drive.google.com/file/d/1ylDS-OFDD-3XDwoesaQ6eSBbx4GuZvXy/view?usp=drivesdk)
 
