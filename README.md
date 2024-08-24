@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MAUI and MERN Stack.**
 
-- 💬 Ask me about **Mobile Apps Development, Java Programming and web development.**
+- 💬 Ask me about **Mobile Apps Development, Java Programming and Web Development.**
 
 - 📫 How to reach me **darshanrathod228@gmail.com**
 
